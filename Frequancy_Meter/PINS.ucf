@@ -1,0 +1,14 @@
+# Clock Inputs
+NET "clk_2hz" LOC = "P43" | BUFG = CLK;
+NET "tgt_clk" LOC = "P39";              
+
+
+# LCD Controls
+NET "lcd_rs"  LOC = "P6";              
+NET "lcd_en"  LOC = "P7";               
+
+# LCD 4-Bit Data Lines
+NET "lcd_db<4>" LOC = "P12";          
+NET "lcd_db<5>" LOC = "P13";            
+NET "lcd_db<6>" LOC = "P14";           
+NET "lcd_db<7>" LOC = "P16";            
