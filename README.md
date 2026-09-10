@@ -1,8 +1,8 @@
-# FPGA Frequency Meter
+# FPGA Frequency Meter 📡
 
 A 5-digit digital frequency meter implemented using VHDL and Xilinx ISE WebPACK.
 
-## Project Overview
+## Project Overview 🔧
 
 This project implements a digital frequency meter using VHDL.
 The measured frequency is displayed using an LCD interface.
@@ -10,17 +10,17 @@ The measured frequency is displayed using an LCD interface.
 The design was developed and synthesized using Xilinx ISE WebPACK
 and implemented on a Xilinx CPLD.
 
-## Target Device
+## Target Device 💻
 
 - Xilinx XC9572XL-10-VQ44
 
-## Tools Used
+## Tools Used 🛠️
 
 - Xilinx ISE WebPACK
 - VHDL
 - Xilinx CPLD
 
-## Project Files
+## Project Files 📁
 
 | File | Description |
 |------|-------------|
@@ -29,21 +29,21 @@ and implemented on a Xilinx CPLD.
 | `freq_meter_5digit_dot.jed` | Generated programming file |
 | `freq_meter_5digit_dot.svf` | SVF programming file |
 
-## Features
+## Features ✨
 
 - 5-digit frequency measurement
 - LCD display
 - VHDL-based digital design
 - Xilinx CPLD implementation
 
-## Hardware Implementation
+## Hardware Implementation ⚡
 
 The design was implemented and tested on a Xilinx CPLD board.
 
-## Authors
+## Team 👥
 
--Eslam Mohamed
--Amr farouk
--Mahmoud Mohamed
--Nada Mohamed
--Mariam Yasser
+- Eslam Mohamed
+- Amr Farouk
+- Mahmoud Mohamed
+- Nada Mohamed
+- Mariam Yasser
