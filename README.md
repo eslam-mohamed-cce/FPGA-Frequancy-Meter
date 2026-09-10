@@ -42,8 +42,8 @@ The design was implemented and tested on a Xilinx CPLD board.
 
 ## Authors
 
-Eslam Mohamed
-Amr farouk
-Mahmoud Mohamed
-Nada Mohamed
-Mariam Yasser
+-Eslam Mohamed
+-Amr farouk
+-Mahmoud Mohamed
+-Nada Mohamed
+-Mariam Yasser
