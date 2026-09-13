@@ -4,7 +4,7 @@ A 5-digit digital frequency meter implemented using VHDL and Xilinx ISE WebPACK.
 
 ## Project Overview 🔧
 
-This project implements a digital frequency meter using VHDL.
+This project implements a digital frequency meter using VHDL
 The measured frequency is displayed using an LCD interface.
 
 The design was developed and synthesized using Xilinx ISE WebPACK
