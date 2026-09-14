@@ -44,6 +44,6 @@ The design was implemented and tested on a Xilinx CPLD board.
 
 - Eslam Mohamed
 - Amr Farouk
-- Mahmoud Mohamed
+- Mahmoud Mohamed Abdul Rahman
 - Nada Mohamed
 - Mariam Yasser
