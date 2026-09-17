@@ -42,8 +42,8 @@ The design was implemented and tested on a Xilinx CPLD board.
 
 ## Team 👥
 
-- Eslam Mohamed
-- Amr Farouk
-- Mahmoud Mohamed Abdul Rahman
-- Nada Mohamed
-- Mariam Yasser
+- Eslam Mohamed.
+- Amr Farouk.
+- Mahmoud Mohamed Abdul Rahman.
+- Nada Mohamed.
+- Mariam Yasser.
